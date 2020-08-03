@@ -1,0 +1,22 @@
+body{
+	background-color: blue;
+}
+p{
+	margin: 100pt;
+	text-align: center;
+    font-family: Arial;
+    font-size: 25pt;
+}
+button#login{
+  background-color: pink;
+  position: absolute;
+   top: 0px; 
+   left: 1200px
+}
+
+button#sign{
+  background-color: pink;
+  position: absolute;
+   top: 0px; 
+   left: 1260px
+}
